@@ -63,7 +63,7 @@ to ship*. Agents do the work; the harness makes their work safe and verifiable.
 ## Quickstart (5 minutes)
 
 ```bash
-git clone https://github.com/jddavenportOpen/orchestra-agents
+git clone https://github.com/ai-foundry-byu/orchestra-agents
 cd orchestra-agents
 pip install -e ".[dev]"        # tests only; no API key needed
 python -m pytest -q            # 61 tests, fully offline, ~0.1s

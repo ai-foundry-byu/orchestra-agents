@@ -26,7 +26,7 @@ anthropic = ["anthropic>=0.40"]
 dev = ["pytest>=7.0"]
 
 [project.urls]
-Homepage = "https://github.com/jddavenportOpen/orchestra-agents"
+Homepage = "https://github.com/ai-foundry-byu/orchestra-agents"
 
 [tool.setuptools.packages.find]
 where = ["."]
